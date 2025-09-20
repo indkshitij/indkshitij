@@ -27,10 +27,6 @@ I’m seeking software development opportunities to work on meaningful projects,
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
 
 </td><td valign="top" width="50%">
 
