@@ -1,98 +1,109 @@
-## Hey 👋, I'm Kshitij !  
-  
+<!-- --------------------------------------------------------- -->
+<!--                     KSHITIJ SINGH README                  -->
+<!-- --------------------------------------------------------- -->
 
-<a href="https://github.com/indkshitij" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kshitijsingh07" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/kkkshitij" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">👋 Hey, I'm <span style="color:#4da6ff;">Kshitij Singh</span></h1>
 
+<p align="center">
+  <a href="https://github.com/indkshitij"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kshitijsingh07"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ind.kshitijsingh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/indkshitij"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
 
+<p align="center">📍 Bhopal, India • 📞 917-990-9425</p>
 
-### Glad to see you here!  
-I’m a final-year Computer Science Engineering student specializing in AI and Machine Learning at the School of Information Technology, RGPV, and a passionate full-stack developer. I build clean, scalable, and user-focused web applications using MERN stack, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and cloud tools like Azure, incorporating DevOps practices such as CI/CD, Docker, and automated deployments to deliver responsive, reliable, and efficient solutions.
+---
 
-I focus on crafting intuitive UIs, reusable frontend components, and robust backend systems. My strong foundation in Data Structures and Algorithms in C++ supports analytical thinking and tackling complex technical challenges effectively.
+## 🚀 About Me  
 
-I actively participate in hackathons, developer communities, and technical projects, contributing to impactful full-stack applications and AI-powered tools that enhance workflows. 
+I am a **Full-Stack Developer**, **AI & ML Enthusiast**, and **DevOps Practitioner**, passionate about building scalable, user-focused, and high-performance applications.
 
-I’m seeking software development opportunities to work on meaningful projects, grow as a developer, and leverage my web development, AI, and DevOps expertise.  
-  
+I specialize in:
 
-<br/>  
+- 🌐 **Modern Frontend Development** – React.js, Next.js, Tailwind CSS  
+- 🔧 **Backend Development** – Node.js, Express.js, REST APIs  
+- 🛢️ **Cloud & DevOps** – Azure, Docker, CI/CD pipelines  
+- 🧠 **Strong DSA in C++ (200+ Problems Solved)**  
+- 🎨 Clean UI/UX, reusable components, and scalable architectures  
 
+I'm always exploring new technologies, building impactful projects, and contributing to developer communities.
 
+💼 **Open to Software Development Roles** (Frontend, Backend, Full-Stack)
 
-</td><td valign="top" width="50%">
+---
 
+# 🛠️ Technical Skills
 
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" height="45" />
+</p>
 
-</td></tr></table>  
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" height="45" />
+</p>
 
-<br/>  
+### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+</p>
 
+### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,azure" height="45" />
+</p>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-</div>  
+### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma,linux" height="45" />
+</p>
 
-<br/>  
+---
 
+# 🌟 Highlights & Achievements
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+- 🔥 Solved **200+ DSA problems** (LeetCode) using C++  
+- 🧩 Strong foundation in **Algorithms, OOP, DBMS, OS, CN, AI & ML**  
+- 🚀 Built multiple **full-stack & AI-powered projects**  
+- 🤝 Demonstrated **leadership & collaboration** in team-based development  
+- 📦 Experience with **deployment, version control, and scalable architecture**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=indkshitij&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+# 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indkshitij&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indkshitij&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
-</td></tr></table>  
+---
 
-<br/>  
+# 🔥 GitHub Streak  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=indkshitij&theme=tokyonight&hide_border=true" />
+</div>
 
-  
+---
 
-<br/>  
+# 🧠 LeetCode Stats  
 
-  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/indkshitij?theme=dark&font=Roboto&extension=activity" />
+</div>
 
-<br/>  
+---
 
+# 🤝 Let's Connect!
 
-<br />
+<p align="center">
+  <a href="mailto:ind.kshitijsingh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kshitijsingh07"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/indkshitij"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+
+⭐ *Thanks for visiting! Feel free to check out my repositories and drop a message if you want to collaborate.*  
