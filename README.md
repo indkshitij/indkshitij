@@ -17,11 +17,11 @@
 </p>
 
 
-<h2 style="font-size:22px; margin-bottom:10px;">
+<h2 style="font-size:25px; margin-bottom:8px;">
   <span style="color:#e6edf3; font-weight:800;">✨ Quick Intro</span>
 </h2>
 
-<p style="font-size:18px; line-height:1.8;">
+<p style="font-size:20px; line-height:1.8;">
   Final-year CSE (AI & ML) student who enjoys building 
   <b>modern full-stack applications</b>, <b>scalable software systems</b>, and <b>data-backed solutions</b>.
   <br/>
@@ -36,11 +36,11 @@
 
 <br/>
 
-<h2 style="font-size:22px; margin-bottom:12px;">
+<h2 style="font-size:25px; margin-bottom:8px;">
   <span style="color:#e6edf3; font-weight:800;">🚀 What I Work On</span>
 </h2>
 
-<p style="margin:6px 0;">
+<p style="margin:2px 0;">
   <img src="https://img.shields.io/badge/Web%20Apps-1E40AF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend%20UI-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend%20APIs-3B82F6?style=for-the-badge" />
@@ -48,27 +48,27 @@
   <img src="https://img.shields.io/badge/Scalable%20Architecture-93C5FD?style=for-the-badge&logoColor=111" />
 </p>
 
-<p style="margin:6px 0;">
+<p style="margin:2px 0;">
   <img src="https://img.shields.io/badge/AI%20Integration-5B21B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Real--Time%20Apps-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Workflow%20Optimization-A78BFA?style=for-the-badge&logoColor=111" />
 </p>
 
-<p style="margin:6px 0;">
+<p style="margin:2px 0;">
   <img src="https://img.shields.io/badge/Performance%20Optimization-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authentication%20%26%20Security-0369A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Code-38BDF8?style=for-the-badge&logoColor=111" />
 </p>
 
-<p style="margin:6px 0;">
+<p style="margin:2px 0;">
   <img src="https://img.shields.io/badge/Analytics%20Dashboards-047857?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL%20Reporting-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Visualization-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Insights-86EFAC?style=for-the-badge&logoColor=111" />
 </p>
 
-<p style="margin:6px 0;">
+<p style="margin:2px 0;">
   <img src="https://img.shields.io/badge/Cloud%20Deployment-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Developer%20Tools-115E59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-F59E0B?style=for-the-badge&logoColor=111" />
@@ -76,7 +76,8 @@
 
 <br/>
 
-<h2 style="font-size:22px; margin-bottom:12px;">
+
+<h2 style="font-size:25px; margin-bottom:8px;">
   <span style="color:#e6edf3; font-weight:800;">🧠 Skills</span>
 </h2>
 
@@ -93,7 +94,7 @@
 
 <br/>
 
-<h2 align="center" style="font-size:22px; margin-top:22px; margin-bottom:10px;">
+<h2 align="center" style="font-size:25px; margin-top:15px; margin-bottom:8px;">
   <span style="color:#e6edf3; font-weight:800;">🤝 Let’s Connect</span>
 </h2>
 
