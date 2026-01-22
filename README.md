@@ -16,7 +16,6 @@
   <i><b>"Data doesn’t lie — it reveals."</b></i>
 </p>
 
-<br/>
 
 <h2 style="font-size:22px; margin-bottom:10px;">
   <span style="color:#e6edf3; font-weight:800;">✨ Quick Intro</span>
