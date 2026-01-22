@@ -16,24 +16,6 @@
   <i><b>"Data doesn’t lie — it reveals."</b></i>
 </p>
 
-<p align="center">
-  <a href="mailto:ind.kshitijsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
-  </a>
-  <a href="https://github.com/indkshitij">
-    <img src="https://img.shields.io/badge/GitHub-indkshitij-111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://linkedin.com/in/kshitijsingh07">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c8a"/>
-  </a>
-  <a href="https://linktr.ee/1kshitij">
-    <img src="https://img.shields.io/badge/Linktree-Explore-43E55E?style=for-the-badge&logo=linktree&logoColor=111&labelColor=1f7a3a"/>
-  </a>
-  <a href="https://leetcode.com/1kshitij">
-    <img src="https://img.shields.io/badge/LeetCode-1kshitij-FFA116?style=for-the-badge&logo=leetcode&logoColor=111&labelColor=c77c02"/>
-  </a>
-</p>
-
 <br/>
 
 <h2 style="font-size:22px; margin-bottom:10px;">
