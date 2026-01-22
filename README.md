@@ -21,7 +21,7 @@
   <span style="color:#e6edf3; font-weight:800;">✨ Quick Intro</span>
 </h2>
 
-<p style="font-size:15px; line-height:1.8;">
+<p style="font-size:18px; line-height:1.8;">
   Final-year CSE (AI & ML) student who enjoys building 
   <b>modern full-stack applications</b>, <b>scalable software systems</b>, and <b>data-backed solutions</b>.
   <br/>
