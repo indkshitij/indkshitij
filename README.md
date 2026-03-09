@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <i><b>"Data doesn’t lie — it reveals."</b></i>
+  <i><b>"Data doesn’t lie - it reveals."</b></i>
 </p>
 
 
