@@ -95,7 +95,9 @@ AI Engineer and Full-Stack Developer building **production-ready AI products** -
 ### GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=indkshitij&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=indkshitij&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indkshitij&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </p>
 
