@@ -95,7 +95,20 @@ AI Engineer and Full-Stack Developer building **production-ready AI products** -
 ### GitHub
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+
+  <p align="center">
+  <img src="https://github.com/indkshitij/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" />
+  <img src="https://github.com/indkshitij/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/indkshitij/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top languages" />
+  <img src="https://github.com/indkshitij/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=indkshitij&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" height="180" alt="GitHub streak" />
+</p>
 
   <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=indkshitij&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indkshitij&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
