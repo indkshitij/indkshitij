@@ -17,7 +17,7 @@
 
 ### About
 
-AI Engineer and Full-Stack Developer building **production-ready AI products** — LLM apps, **RAG systems**, and end-to-end web platforms.
+AI Engineer and Full-Stack Developer building **production-ready AI products** - LLM apps, **RAG systems**, and end-to-end web platforms.
 
 - Generative AI & LLMs (Google Gemini, Groq) — retrieval-augmented generation, prompt engineering, and AI agents.
 - Full-stack delivery across React / Next.js / Node.js / Python (Flask, FastAPI).
@@ -105,19 +105,20 @@ AI Engineer and Full-Stack Developer building **production-ready AI products** �
 
 ---
 
-### Certifications & Education
+### Education & Certifications
 
-**Bachelor of Technology (B.Tech.) in Computer Science & Engineering (AI & ML)**  
-School Of Information Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) | **2022 – 2026**  
-Specialized in Artificial Intelligence & Machine Learning with a strong foundation in software engineering, machine learning, full-stack development, databases, and cloud technologies.
+**B.Tech. in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
+School of Information Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)<br>
+November 2022 – June 2026
 
-**Postman API Fundamentals Student Expert**  
-Postman | **2025**  
-Certified in REST API development, testing, authentication, and API collaboration using Postman.
+Specialization in Artificial Intelligence & Machine Learning, with a strong foundation in software engineering, machine learning, full-stack development, databases, cloud computing, and modern AI application development.
 
-**Data Resilience in MongoDB Atlas**  
-MongoDB | **2026**  
-Completed training in MongoDB Atlas covering replication, backup & recovery, high availability, and cloud database resilience.
+<br/>
+
+| Certification | Issuer · Year | Focus |
+|:--|:--|:--|
+| **Postman API Fundamentals — Student Expert** | Postman · 2025 | REST API development, testing, authentication, collaboration |
+| **Data Resilience in MongoDB Atlas** | MongoDB · 2026 | Replication, backup & recovery, high availability, cloud resilience |
 
 ---
 
